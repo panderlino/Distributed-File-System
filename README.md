@@ -4,6 +4,8 @@ Este projeto é parte da disciplina de Sistemas Distribuídos, da Universidade F
 
 São verificados os conceitos de comunicação multicast, tratamento de concorrência, balanceamento, replicação e tolerância a falhas.
 
+#Estrutura do Projeto
+
 As aplicações se dividem em três tipos de processos:
 Um grupo de processos clientes, que requisitam operações em arquivos, quais sejam criação (com um número especificado de réplicas), edição, leitura e deleção;
 Um grupo de processos slaves, os quais armazenam os arquivos de acordo com a arquitetura do sistema;
