@@ -1,4 +1,4 @@
-# Distributed-File-System
+# Sistema de Arquivos Distribuído
 
 Este projeto é parte da disciplina de Sistemas Distribuídos, da Universidade Federal do Ceará, e consiste em um simples sistema de arquivos distribuído, usando Java e o Spread toolkit.
 
