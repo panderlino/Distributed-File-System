@@ -13,7 +13,7 @@ E um grupo de processos servidores, que controlam todo o sistema. Nesse grupo, �
 
 Para que seja possível a comunicação entre os processos, o daemon do spread deve estar executando.
 
-# COMO CONFIGURAR O AMBIENTE PARA RODAR O DAEMON DO SPREAD
+# Configurando o ambiente para rodar o daemon do SPREAD
 
 1. Criar uma pasta "spreadtoolkit" em /home/ubuntu/
     
@@ -32,7 +32,7 @@ Para que seja possível a comunicação entre os processos, o daemon do spread d
     sudo make
     sudo make install
 
-# COMO EXECUTAR A APLICAÇÃO
+# Executando a aplicação
 
 1. Executar o daemon do spread
     
